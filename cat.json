@@ -1,0 +1,65 @@
+[
+    {
+        "id": "aege",
+        "name": "Aegean",
+        "temperament": "Affectionate, Social, Intelligent, Playful, Active",
+        "origin": "Greece",
+        "description": "Native to the Greek islands known as the Cyclades in the Aegean Sea, these are natural cats, meaning they developed without humans getting involved in their breeding. As a breed, Aegean Cats are rare, although they are numerous on their home islands. They are generally friendly toward people and can be excellent cats for families with children.",
+        "life_span": "9-12",
+        "url": "https://cdn2.thecatapi.com/images/ozEvzdVM-.jpg"
+    },
+    {
+        "id": "beng",
+        "name": "Bengal",
+        "temperament": "Energetic, Curious, Confident, Playful, Intelligent",
+        "origin": "United States",
+        "description": "The Bengal cat is known for its striking appearance, which resembles that of a leopard. They are highly active and love to play. Bengals are intelligent and enjoy interactive toys and challenges. They are friendly and get along well with families and other pets.",
+        "life_span": "12-16",
+        "url": "https://cdn2.thecatapi.com/images/BkQ9wz5E7.jpg"
+    },
+    {
+        "id": "siam",
+        "name": "Siamese",
+        "temperament": "Affectionate, Social, Vocal, Intelligent, Active",
+        "origin": "Thailand",
+        "description": "Siamese cats are known for their distinctive color points and striking blue eyes. They are very vocal and enjoy interacting with their owners. Siamese cats are highly intelligent and require mental stimulation. They form strong bonds with their families and are often quite loyal.",
+        "life_span": "10-15",
+        "url": "https://cdn2.thecatapi.com/images/SJ1Q4s5lF.jpg"
+    },
+    {
+        "id": "maine",
+        "name": "Maine Coon",
+        "temperament": "Gentle, Friendly, Sociable, Intelligent, Playful",
+        "origin": "United States",
+        "description": "The Maine Coon is one of the largest domesticated cat breeds. They have a friendly and sociable nature and get along well with children and other pets. Maine Coons are known for their long, shaggy fur and tufted ears. They are intelligent and can be trained to perform tricks.",
+        "life_span": "12-15",
+        "url": "https://cdn2.thecatapi.com/images/B1p8y3qE7.jpg"
+    },
+    {
+        "id": "sphynx",
+        "name": "Sphynx",
+        "temperament": "Affectionate, Energetic, Social, Intelligent, Curious",
+        "origin": "Canada",
+        "description": "The Sphynx cat is famous for its lack of fur and wrinkled skin. Despite their unusual appearance, Sphynx cats are known for their affectionate and playful nature. They love human attention and are very social. They are active and enjoy engaging in interactive play.",
+        "life_span": "10-15",
+        "url": "https://cdn2.thecatapi.com/images/BkxfzR5E7.jpg"
+    },
+    {
+        "id": "pers",
+        "name": "Persian",
+        "temperament": "Calm, Quiet, Affectionate, Gentle, Reserved",
+        "origin": "Iran",
+        "description": "Persian cats are known for their long, luxurious fur and flat faces. They have a calm and gentle demeanor and prefer a quiet environment. Persians are affectionate with their owners and enjoy a relaxed lifestyle. They require regular grooming to maintain their coat.",
+        "life_span": "12-17",
+        "url": "https://cdn2.thecatapi.com/images/S1zjN3M7F.jpg"
+    },
+    {
+        "id": "burm",
+        "name": "Burmese",
+        "temperament": "Loving, Social, Playful, Curious, Intelligent",
+        "origin": "Burma",
+        "description": "Burmese cats are known for their affectionate and social nature. They are very vocal and enjoy being around people. Burmese cats are playful and curious, often engaging in interactive play with their owners. They are known for their sleek, shiny coats and striking eyes.",
+        "life_span": "10-16",
+        "url": "https://cdn2.thecatapi.com/images/Sy3v3x5E7.jpg"
+    }
+]
